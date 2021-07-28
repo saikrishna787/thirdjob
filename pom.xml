@@ -32,6 +32,14 @@
 
   <dependencies>
  <!-- https://mvnrepository.com/artifact/org.makumba/makumba -->
+ <!-- https://mvnrepository.com/artifact/org.hsqldb/hsqldb -->
+   <dependency>
+    <groupId>org.hsqldb</groupId>
+    <artifactId>hsqldb</artifactId>
+    <version>2.6.0</version>
+    <scope>test</scope>
+   </dependency>
+
     <dependency>
       <groupId>hsqldb</groupId>
       <artifactId>hsqldb</artifactId>
