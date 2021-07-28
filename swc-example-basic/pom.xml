@@ -7,7 +7,7 @@
   <groupId>org.sweble.wikitext</groupId>
   <artifactId>swc-example-basic-archetype</artifactId>
   <version>1.1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>SWC - Basic Example</name>
   <url>http://osr.informatik.uni-erlangen.de</url>
